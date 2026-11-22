@@ -1,0 +1,8 @@
+{
+  "location": {"name": "Berlin", "latitude": 52.52, "longitude": 13.405, "timezone": "Europe/Berlin"},
+  "message": {"title": "A little space to think.", "text": "One thing at a time. Make something that matters."},
+  "refresh_seconds": 900,
+  "font": "/System/Library/Fonts/Supplemental/Arial.ttf",
+  "bold_font": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+  "clock_font": "/System/Library/Fonts/Supplemental/DIN Alternate Bold.ttf"
+}

@@ -1,0 +1,3 @@
+# Safe, reversible user-space auto-boot hook for KoboDash on Kobo Touch A (N905).
+# Identical trigger mechanism to NiLuJe's KoboStuff / KFMon; never touches /etc/init.d/rcS.
+KERNEL=="loop0", RUN+="/usr/local/kobodash/boot-hook.sh"

@@ -1,0 +1,10 @@
+backups/
+artifacts/
+output/
+.venv/
+__pycache__/
+.DS_Store
+server/.env
+server/.env.*
+firmware/build/
+firmware/third_party/

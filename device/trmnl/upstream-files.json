@@ -1,0 +1,170 @@
+{
+  "commit": "731c402eb3a0b3014d36277d8ef8b35f671a2be5",
+  "files": [
+    {
+      "path": "src/TRMNL/bin/busybox_kobo",
+      "size": 879928,
+      "sha256": "a69a9f3326fb24d16a7fc4b08b41d42654031b6ea6028d00eccde081fe14eebc"
+    },
+    {
+      "path": "src/TRMNL/bin/error.png",
+      "size": 10819,
+      "sha256": "e3e5a675e19261bf47e886190d9478ec2578cc9738f0bcca77ca5924abc69927"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/CREDITS",
+      "size": 7417,
+      "sha256": "3ed6f9c7c4bdbd3eefa667008d29e622aad97b47a6c2b0a85fc855e81d07f2f9"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/LICENSE",
+      "size": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/README.md",
+      "size": 17715,
+      "sha256": "06177a0bb87826fe2ff4490a14fdd03ecc359b4ec31814dcb27d012614d4148f"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/fbdepth",
+      "size": 96088,
+      "sha256": "5863e6a38e8e2a10b51630655b3e91bd8b10dcf883a3df333944f187e8ab1121"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/fbink",
+      "size": 1239028,
+      "sha256": "40574f15c1dc72b5f8e28b8fba4950550754b0eaa9c0555f288a1950ea22f77c"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/finger_trace",
+      "size": 141184,
+      "sha256": "0a4f14c9465af813cd139cb5195e01c81dfb237a3e34db85003e49df1bfd2afd"
+    },
+    {
+      "path": "src/TRMNL/bin/fbink/input_scan",
+      "size": 100184,
+      "sha256": "132c74fbb4b80f206ffa19152e0bd1ca82dd3c43bba7060da71623149e485bcf"
+    },
+    {
+      "path": "src/TRMNL/bin/luajit",
+      "size": 350168,
+      "sha256": "dbcdf90fe5c1c26c7ff826c788d86dde7f7ef7d1ee0e4c8bae098302227c12c2"
+    },
+    {
+      "path": "src/TRMNL/config.json",
+      "size": 304,
+      "sha256": "ce1e8936eb6aaa8092596450f4ab2bc847ea05a19ec041a8dc99781503dcfb05"
+    },
+    {
+      "path": "src/TRMNL/ffi/__gc.lua",
+      "size": 660,
+      "sha256": "e01e633d113b15159f7322aef0e81f874df5a1642dbb0f0df91eeee181a98f2f"
+    },
+    {
+      "path": "src/TRMNL/ffi/posix_h.lua",
+      "size": 19163,
+      "sha256": "0de3578307bb38464726d62ca6ce368b525d4d0d1c2637714e930146fe390e32"
+    },
+    {
+      "path": "src/TRMNL/ffi/posix_types_64b_h.lua",
+      "size": 602,
+      "sha256": "655667761e40a98aeb01d14140881ebca658675d9cb1233053c0b734d11025dc"
+    },
+    {
+      "path": "src/TRMNL/ffi/posix_types_def_h.lua",
+      "size": 620,
+      "sha256": "eb2248f1a837f108a930b19cbd2f9cb8fac1900b6a0d7f6ed8f1b1ff278b03b8"
+    },
+    {
+      "path": "src/TRMNL/ffi/posix_types_x64_h.lua",
+      "size": 602,
+      "sha256": "655667761e40a98aeb01d14140881ebca658675d9cb1233053c0b734d11025dc"
+    },
+    {
+      "path": "src/TRMNL/ffi/posix_types_x86_h.lua",
+      "size": 620,
+      "sha256": "eb2248f1a837f108a930b19cbd2f9cb8fac1900b6a0d7f6ed8f1b1ff278b03b8"
+    },
+    {
+      "path": "src/TRMNL/lua/ntx_io.lua",
+      "size": 528,
+      "sha256": "a53f4c6114f523c5af29b690c9f797fe60a8140a8b82cb21692aa4ec8e1ebc83"
+    },
+    {
+      "path": "src/TRMNL/scripts/disable-wifi.sh",
+      "size": 3723,
+      "sha256": "4ea4a48555fa5665c1c2363e6ff97807993e318f3b0e9ea9abd5b2b0b26ab983"
+    },
+    {
+      "path": "src/TRMNL/scripts/enable-wifi.sh",
+      "size": 8372,
+      "sha256": "700767b2b1ffb95a80cc45b31a91cf0a2d130edaf71d2357a9359ca80d53b4f9"
+    },
+    {
+      "path": "src/TRMNL/scripts/force-wifi-connection.sh",
+      "size": 243,
+      "sha256": "292dbe93f5f8c9499c49a940401d45d1267ffdecd02baa4b8ff25e31b75ef270"
+    },
+    {
+      "path": "src/TRMNL/scripts/getrssi.sh",
+      "size": 5932,
+      "sha256": "8318a34d8ba983455925e0062576fce0eb38cc12a92967b1459fcb74c3e7aa14"
+    },
+    {
+      "path": "src/TRMNL/scripts/ledToggle.sh",
+      "size": 808,
+      "sha256": "824ad6b3ee00143d2ff71923b014e724dba026dad8b4b357877b88baae3e3683"
+    },
+    {
+      "path": "src/TRMNL/scripts/log.sh",
+      "size": 1864,
+      "sha256": "f247ad14df136f2bda84f1679d9971b3ebaac0e6ba68dd4770413d0df57920fc"
+    },
+    {
+      "path": "src/TRMNL/scripts/logToServer.sh",
+      "size": 306,
+      "sha256": "c8ea1b330b258728ba7d4bccf0a2b1372378ce0c53489dbb66250cf3ca294ea5"
+    },
+    {
+      "path": "src/TRMNL/scripts/obtain-ip.sh",
+      "size": 2775,
+      "sha256": "cabdec6cef96005bf7cfb0ade80052458cc1f2eb1338d5cc0f134938988bc769"
+    },
+    {
+      "path": "src/TRMNL/scripts/release-ip.sh",
+      "size": 1201,
+      "sha256": "e32bfd3d305555f19c75be2ae94bc03dc38cee4fa3a64199709b1fe3d0d88701"
+    },
+    {
+      "path": "src/TRMNL/scripts/restore-wifi-async.sh",
+      "size": 834,
+      "sha256": "cdadda9831a7a1160ae2f84d6338254dadebeb345d94b2171e5b3f95d95bf73a"
+    },
+    {
+      "path": "src/TRMNL/trmnl.sh",
+      "size": 17794,
+      "sha256": "cab5bf43bb6398a15b32d629b148b8bc42bf1590d5f45136829a1c8cf23f97b2"
+    },
+    {
+      "path": "src/TRMNL/trmnlloop.sh",
+      "size": 5544,
+      "sha256": "ce433bdc4b340e445482b50fd46517319aacd769d1173aca9ca7f74d0113acc2"
+    },
+    {
+      "path": "src/nm/TRMNL.ini",
+      "size": 476,
+      "sha256": "627f6112a4f2316fb3ae180b09b0961d891f1df364d5f2310e1086b8a4b18cf4"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1062,
+      "sha256": "b0072c65e49d76b9ac6b64f080360dea1610db67cac5131884d83d001641771d"
+    },
+    {
+      "path": "readme.md",
+      "size": 8252,
+      "sha256": "0e23df8b458e0d66aad671e2e4d5a26c54112af0d8e8ea30d9350a0807b7a859"
+    }
+  ]
+}
